@@ -54,7 +54,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         create a to-do list <br /> <bold>****IN YOUR MIND*****</bold>
         </p>
         <a
           className="App-link"
